@@ -1,0 +1,32 @@
+#container {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(178, 34, 34, 0.521);
+    margin: 50px auto;
+    height: 800px;
+}
+
+.counter {
+    color: black;
+    font-size: 2rem;
+}
+
+#counter {
+    margin-left: 4rem;
+    background-color: rgb(212, 205, 205);
+    color: black;
+    width: 25%;
+    border-radius: 15px;
+}
+
+#log {
+    background-color: whitesmoke;
+    width: 70%;
+    height: 100px;
+    margin: 0px 15%;
+    padding-left: 10px;
+}
+
+li {
+    list-style: none;
+}
